@@ -37,10 +37,10 @@
     "jest": "^23.3",
     "jest-serializer-enzyme": "^1.0.0",
     "prettier": "^1.13.7",
-    "react": "^16.2.0",
+    "react": "^18.2.0",
     "react-addons-test-utils": "^15.6.2",
     "react-dom": "^16.4.1",
-    "react-native": "^0.54.2",
+    "react-native": "^0.71.8",
     "react-test-renderer": "^16.4.1",
     "typescript": "^2.7.2"
   },
